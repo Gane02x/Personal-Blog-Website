@@ -1,0 +1,10 @@
+.grid-layout{
+    display: grid;
+    height: 90vh;
+    grid-template-columns: 850px;
+    grid-template-areas:
+    "hd"
+    "sd"
+    "cc"
+    "ft";
+}

@@ -1,0 +1,25 @@
+.card{
+        width: 400px; height: auto;
+        border: 2px solid rgb(56, 0, 0);
+        padding: 10px;
+        padding-right: 2%;
+        border-radius: 15px;
+}
+figure{
+        transform: translateX(-10%);
+}
+figcaption{
+        font-style: bold;
+}
+h2{
+        text-align:center;
+        font: bold 30px sans-serif;
+}
+h3{
+        color: rgba(120, 0, 200, 0.8);
+}
+#post{
+        width:300px; 
+        height:auto;
+        padding-left: 40px;
+}
